@@ -11,5 +11,7 @@ public class Player {
     int magicAttack = 0;
     int rangedAttack = 0;
     int summonDamage = 0;
+    int defense = 5;
+    int speed = 5;
 
 }
